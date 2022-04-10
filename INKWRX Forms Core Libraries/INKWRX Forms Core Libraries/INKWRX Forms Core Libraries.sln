@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseTools", "..\DatabaseTools\DatabaseTools.csproj", "{F26A9888-6A14-4205-B5C1-51AA60875DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormTools", "..\FormTools\FormTools.csproj", "{0C23932A-4EFF-4EB2-A5AA-66C9EB886A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoTools", "..\PhotoTools\PhotoTools.csproj", "{C8226B78-E1AE-4E5B-B2D8-367514EA323C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26A9888-6A14-4205-B5C1-51AA60875DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26A9888-6A14-4205-B5C1-51AA60875DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26A9888-6A14-4205-B5C1-51AA60875DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26A9888-6A14-4205-B5C1-51AA60875DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C23932A-4EFF-4EB2-A5AA-66C9EB886A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C23932A-4EFF-4EB2-A5AA-66C9EB886A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C23932A-4EFF-4EB2-A5AA-66C9EB886A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C23932A-4EFF-4EB2-A5AA-66C9EB886A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8226B78-E1AE-4E5B-B2D8-367514EA323C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8226B78-E1AE-4E5B-B2D8-367514EA323C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8226B78-E1AE-4E5B-B2D8-367514EA323C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8226B78-E1AE-4E5B-B2D8-367514EA323C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
